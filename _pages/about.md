@@ -17,9 +17,10 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-2026 年将毕业于华南理工大学软件学院，在蔡毅教授指导下获得博士学位。2025-01~2026-01在香港理工大学进行公派留学访问（联合培养），合作导师为李青教授。研究方向为多模态学习与知识图谱以及情感分析。 以第一作者身份在TKDE，AAAI以及 IJCAI等国际期刊及会议学术论文10余篇，担任ACL、AAAI、TKDE以及TASLP等会议期刊的审稿人.
 
- <a href='https://scholar.google.com/citations?user=5VtOcSkAAAAJ&hl'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=引用"></a>。
+我将于2026年毕业于华南理工大学软件学院，师从蔡毅教授，获得博士学位。2025年1月至2026年1月，作为国家公派联合培养博士生，在香港理工大学访问交流，合作导师为李青教授。我的研究方向包括多模态学习、知识图谱与情感分析。以第一作者身份在 TKDE、AAAI、IJCAI 等国际顶级期刊与会议发表论文十余篇，并担任 ACL、AAAI、TKDE、TASLP 等国际会议与期刊的审稿人。
+
+ <a href='https://scholar.google.com/citations?user=5VtOcSkAAAAJ&hl'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=引用"></a>。 
 
 
 我的研究领域包括：
@@ -42,7 +43,7 @@ redirect_from:
 
 # 📝 论文
 
-### 期刊论文
+## 期刊论文
 ---
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Sensors 2022</div><img src='images/sensors2022.svg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -50,7 +51,7 @@ redirect_from:
 
 </div>
 </div> -->
-
+### 2025年
 
 -	`Yuan, Li`, Yi Cai, Jingyu Xu, Qing Li, and Tao Wang. "A Fine-Grained Network for Joint Multimodal Entity-Relation Extraction." IEEE Transactions on Knowledge and Data Engineering 37, no. 1 (2025): 1-14. (第一作者,`CCF A;  JCR:Q1; IF:10.4`)  [[网页]](https://ieeexplore.ieee.org/abstract/document/10736404)
 
@@ -60,13 +61,15 @@ redirect_from:
 
 - `Huang, Shubin*`, Yi Cai, `Li Yuan*`, and Jiexin Wang. "A knowledge-enhanced network for joint multimodal entity-relation extraction." Information Processing & Management 62, no. 3 (2025): 104033.(*共同一作,`CCF B;  JCR:Q1; IF:6.9`)  [[网页]](https://www.sciencedirect.com/science/article/pii/S0306457324003923)
 
+### 2024年
+
 - `Yuan, Li`, Jin Wang, Lung-Hao Lee, and Xuejie Zhang. "Syntax-Enhanced Pretrained Language Models for Aspect-Level Sentiment Classification." IEEE Transactions on Computational Social Systems (2024). (第一作者,`CCF C;  JCR:Q1; IF:4.9`)[[网页]](https://ieeexplore.ieee.org/document/10813579)
 
 
-
+### 2023年
 - `Yuan, Li`, Jin Wang, Liang-Chih Yu, and Xuejie Zhang. "Encoding syntactic information into transformers for aspect-based sentiment triplet extraction." IEEE Transactions on Affective Computing 15, no. 2 (2023): 722-735. (第一作者,`CCF B;  JCR:Q1; IF:9.8`)[[网页]](https://ieeexplore.ieee.org/document/10175600/)
 
-
+### 2022年以前
 - `Yuan, Li`, Jin Wang, Liang-Chih Yu, and Xuejie Zhang. "Syntactic graph attention network for aspect-level sentiment analysis." IEEE Transactions on Artificial Intelligence 5, no. 1 (2022): 140-153. (第一作者,`人工智能学会B 类推荐期刊; EI`)[[网页]](https://ieeexplore.ieee.org/document/9976197/)
 
 
@@ -81,6 +84,7 @@ redirect_from:
 ### 会议论文
 ---
 
+### 2025 年
 - `Yuan, Li`, Yi Cai, Xudong Shen, Qing Li, Qingbao Huang, Zikun Deng, and Tao Wang. "Collaborative Multi-LoRA Experts with Achievement-based Multi-Tasks Loss for Unified Multimodal Information Extraction." IJCAI (2025). (第一作者,`CCF A;  人工智能领域顶会`)  [[网页]](https://arxiv.org/abs/2505.06303) (Oral)
 
 
@@ -91,10 +95,10 @@ redirect_from:
 
 
 
-- `Liu, Zhenghao*`, `Li Yuan*`, Jiexin Wang, and Yi Cai. "CSE-WSS: Code Structure Enhancement Framework with Weighted Semantic Similarity for Changeset-Based Bug Localization." In Proceedings of the SANER, pp. 252-263. (*共同第一作者,`CCF B; 软件工程领域顶会`)  [[网页]](https://ieeexplore.ieee.org/abstract/document/10992515/) (Oral)
+- `Liu, Zhenghao*`, `Li Yuan*`, Jiexin Wang, and Yi Cai. "CSE-WSS: Code Structure Enhancement Framework with Weighted Semantic Similarity for Changeset-Based Bug Localization." In Proceedings of the SANER 2025, pp. 252-263. (*共同第一作者,`CCF B; 软件工程领域顶会`)  [[网页]](https://ieeexplore.ieee.org/abstract/document/10992515/) (Oral)
 
 
-
+### 2024年
 
 - `Yuan, Li`, Yi Cai, and Junsheng Huang. "Few-shot joint multimodal entity-relation extraction via knowledge-enhanced cross-modal prompt model." In Proceedings of the ACM MM 2024, pp. 8701-8710. (第一作者,`CCF A;  多模态领域顶会`)  [[网页]](https://dl.acm.org/doi/abs/10.1145/3664647.3680717?casa_token=Okofl6ANBQ8AAAAA:--QvmiPsfzDmqdUzHEcEi_f-ptnE2cBDDQx2Bfr3eqcziAMAveRQb-Mart_oWjOdnn5JTXbuolo)
 
@@ -105,9 +109,10 @@ redirect_from:
 - `Yuan, Li`, Yi Cai, Haopeng Ren, and Jiexin Wang. "A Logical Pattern Memory Pre-trained Model for Entailment Tree Generation." In Proceedings of the COLING 2024, pp. 759-772.  (第一作者,`CCF B;  自然语言处理顶会`)  [[网页]](https://aclanthology.org/2024.lrec-main.68/) (Oral)
 
 
+### 2023年
 - `Yuan, Li`, Yi Cai, Jin Wang, and Qing Li. "Joint multimodal entity-relation extraction based on edge-enhanced graph alignment network and word-pair relation tagging." In Proceedings of the AAAI 2023, pp. 11051-11059. 2023. (第一作者,`CCF A;  人工智能顶会`)  [[网页]](https://ojs.aaai.org/index.php/AAAI/article/view/26309/) (Oral)
 
-
+### 2022年以前
 - `Yuan, Li`, Jin Wang, Liang-Chih Yu, and Xuejie Zhang. "Graph attention network with memory fusion for aspect-level sentiment analysis." In Proceedings of the AACL 2020, pp. 27-36. (第一作者,`人工智能学会 C 类推荐会议`)  [[网页]](https://aclanthology.org/2020.aacl-main.4/) (Oral)
 
 
