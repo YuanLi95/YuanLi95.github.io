@@ -34,8 +34,8 @@ redirect_from:
 
 
 
-- *2022.09 - 2026.06*, <a href="https://www.scu.edu.cn/"><img class="svg" src="/images/SCUt.jpg" width="20pt"></a> 华南理工大学 软件工程, 广东广州, 博士, 导师：蔡毅教授
-- *2025.01 - 2026.01*, <a href="https://www.scu.edu.cn/"><img class="svg" src="/images/polyU.jpg" width="20pt"></a> 香港理工大学 计算机系, 中国香港, 联合培养(访问学者), 合作导师：李青教授
+- *2022.09 - 2026.06 (预计)*, <a href=""><img class="svg" src="/images/SCUt.jpg" width="20pt"></a> 华南理工大学 软件工程, 广东广州, 博士, 导师：蔡毅教授
+- *2025.01 - 2026.01*, <a href=""><img class="svg" src="/images/polyU.jpg" width="20pt"></a> 香港理工大学 计算机系, 中国香港, 联合培养(访问学者), 合作导师：李青教授
 - *2016.06 - 2022.12*, <a href=""><img class="svg" src="/images/YNU.jpg" width="23pt"></a> 云南大学 计算机应用技术, 云南昆明, 硕士, 导师：张学杰教授
 
  
