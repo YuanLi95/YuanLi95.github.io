@@ -59,7 +59,7 @@ redirect_from:
 - `Yuan, Li`, Jin Wang, Liang-Chih Yu, Yi Cai, and Xuejie Zhang. "Pruning Self-Attention with Local and Syntactic Dependencies for Aspect Sentiment Triplet Extraction." IEEE Transactions on Audio, Speech and Language Processing (2025).(第一作者, `CCF B;  JCR:Q1; IF:5.1`)  [[网页]](https://ieeexplore.ieee.org/document/11027450)
 
 
-- `Huang, Shubin*`, Yi Cai, `Li Yuan*`, and Jiexin Wang. "A knowledge-enhanced network for joint multimodal entity-relation extraction." Information Processing & Management 62, no. 3 (2025): 104033.(*共同一作,`CCF B;  JCR:Q1; IF:6.9`)  [[网页]](https://www.sciencedirect.com/science/article/pii/S0306457324003923)
+- Huang, Shubin*, Yi Cai, `Li Yuan*`, and Jiexin Wang. "A knowledge-enhanced network for joint multimodal entity-relation extraction." Information Processing & Management 62, no. 3 (2025): 104033.(*共同一作,`CCF B;  JCR:Q1; IF:6.9`)  [[网页]](https://www.sciencedirect.com/science/article/pii/S0306457324003923)
 
 ### 2024年
 
@@ -83,19 +83,25 @@ redirect_from:
 
 ### 会议论文
 ---
+### 2026 年
+- `L Yuan`, Qingfei Huang, Bingshan Zhu, Y Cai, Qingbao Huang, Changmeng Zheng, Zikun Deng, Tao Wang. "CHybrid-DMKG: A Hybrid Reasoning Framework over Dynamic Multimodal Knowledge Graphs for Multimodal Multihop QA with Knowledge Editing."Accpted by the AAAI 2026. (第一作者,`CCF A;  人工智能领域顶会`)  [[网页]](https://arxiv.org/abs/2505.06303) (Oral)
 
 ### 2025 年
-- `Yuan, Li`, Yi Cai, Xudong Shen, Qing Li, Qingbao Huang, Zikun Deng, and Tao Wang. "Collaborative Multi-LoRA Experts with Achievement-based Multi-Tasks Loss for Unified Multimodal Information Extraction." IJCAI (2025). (第一作者,`CCF A;  人工智能领域顶会`)  [[网页]](https://arxiv.org/abs/2505.06303) (Oral)
+
+- Tianchen Yu*, 'Li Yuan*', Hailin Huang, Jiexin Wang, Yi Cai. "Mixture-of-Experts Low-Rank Adaptation for Multilingual Code Summarization." Proceedings of the ASE 2025. (*共同第一作者,`CCF A; 软件工程领域顶会`)  [[网页]](https://conf.researchr.org/details/ase-2025/ase-2025-papers/205/Mixture-of-Experts-Low-Rank-Adaptation-for-Multilingual-Code-Summarization) (Oral)
 
 
-- `Zhou, Bihan*`, `Haopeng Ren*`, `Li Yuan*`, Yi Cai, Liuwen Cao, and Zikun Deng. "RuleEdit: Towards Rule-Level Knowledge Generalization to Mitigate Over-Editing in Large Language Models." In Findings of the ACL 2025, pp. 3159-3175. 2025. (*共同第一作者,`CCF A; 自然语言处理顶会`)  [[网页]](https://aclanthology.org/2025.findings-acl.164/)
+- `Yuan Li`, Yi Cai, Xudong Shen, Qing Li, Qingbao Huang, Zikun Deng, and Tao Wang. "Collaborative Multi-LoRA Experts with Achievement-based Multi-Tasks Loss for Unified Multimodal Information Extraction."Proceedings of the IJCAI 2025. (第一作者,`CCF A;  人工智能领域顶会`)  [[网页]](https://arxiv.org/abs/2505.06303) (Oral)
 
 
-- `Yu, Tianchen*`, `Li Yuan*`, Liannan Lin, and Hongkui He. "A Multiple Representation Transformer with Optimized Abstract Syntax Tree for Efficient Code Clone Detection." In Proceedings of the ICSE 2025, pp. 587-587. (*共同第一作者,`CCF A; 软件工程领域顶会`)  [[网页]](https://www.computer.org/csdl/proceedings-article/icse/2025/056900a587/251mFD6rzPO/) (Oral)
+- Zhou, Bihan*, Haopeng Ren*, `Li Yuan*`, Yi Cai, Liuwen Cao, and Zikun Deng. "RuleEdit: Towards Rule-Level Knowledge Generalization to Mitigate Over-Editing in Large Language Models." In Findings of the ACL 2025, pp. 3159-3175. 2025. (*共同第一作者,`CCF A; 自然语言处理顶会`)  [[网页]](https://aclanthology.org/2025.findings-acl.164/)
+
+
+- Yu, Tianchen*, `Li Yuan*`, Liannan Lin, and Hongkui He. "A Multiple Representation Transformer with Optimized Abstract Syntax Tree for Efficient Code Clone Detection." In Proceedings of the ICSE 2025, pp. 587-587. (*共同第一作者,`CCF A; 软件工程领域顶会`)  [[网页]](https://www.computer.org/csdl/proceedings-article/icse/2025/056900a587/251mFD6rzPO/) (Oral)
 
 
 
-- `Liu, Zhenghao*`, `Li Yuan*`, Jiexin Wang, and Yi Cai. "CSE-WSS: Code Structure Enhancement Framework with Weighted Semantic Similarity for Changeset-Based Bug Localization." In Proceedings of the SANER 2025, pp. 252-263. (*共同第一作者,`CCF B; 软件工程领域顶会`)  [[网页]](https://ieeexplore.ieee.org/abstract/document/10992515/) (Oral)
+- Liu, Zhenghao*, `Li Yuan*`, Jiexin Wang, and Yi Cai. "CSE-WSS: Code Structure Enhancement Framework with Weighted Semantic Similarity for Changeset-Based Bug Localization." In Proceedings of the SANER 2025, pp. 252-263. (*共同第一作者,`CCF B; 软件工程领域顶会`)  [[网页]](https://ieeexplore.ieee.org/abstract/document/10992515/) (Oral)
 
 
 ### 2024年
@@ -155,3 +161,4 @@ redirect_from:
 - *2018.05 - 2020.02*, 重庆长江轴承股份有限公司, 重庆
 - *2020.11.25 - 2020.12.02*, 湖北新冶钢有限公司, 湖北黄石
 - *2017.6 - 2021.1*, 制造装备数字化国家工程研究中心, 湖北武汉 -->
+
