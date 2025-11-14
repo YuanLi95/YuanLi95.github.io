@@ -84,7 +84,7 @@ redirect_from:
 ### 会议论文
 ---
 ### 2026 年 
-- `L Yuan`, Qingfei Huang, Bingshan Zhu, Y Cai, Qingbao Huang, Changmeng Zheng, Zikun Deng, Tao Wang. "CHybrid-DMKG: A Hybrid Reasoning Framework over Dynamic Multimodal Knowledge Graphs for Multimodal Multihop QA with Knowledge Editing."Accpted by the AAAI 2026. (`CCF A;  人工智能领域顶会`)  [[网页]](https://arxiv.org/abs/2505.06303) (Oral)
+- `L Yuan`, Qingfei Huang, Bingshan Zhu, Y Cai, Qingbao Huang, Changmeng Zheng, Zikun Deng, Tao Wang. "CHybrid-DMKG: A Hybrid Reasoning Framework over Dynamic Multimodal Knowledge Graphs for Multimodal Multihop QA with Knowledge Editing."Accpted by the AAAI 2026. (`CCF A;  人工智能领域顶会`)  [[网页]](https://arxiv.org/abs/2505.06303)
 
 ### 2025 年
 
@@ -161,6 +161,7 @@ redirect_from:
 - *2018.05 - 2020.02*, 重庆长江轴承股份有限公司, 重庆
 - *2020.11.25 - 2020.12.02*, 湖北新冶钢有限公司, 湖北黄石
 - *2017.6 - 2021.1*, 制造装备数字化国家工程研究中心, 湖北武汉 -->
+
 
 
 
