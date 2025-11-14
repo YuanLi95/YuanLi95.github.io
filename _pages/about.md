@@ -53,27 +53,27 @@ redirect_from:
 </div> -->
 ### 2025年
 
--	`Yuan, Li`, Yi Cai, Jingyu Xu, Qing Li, and Tao Wang. "A Fine-Grained Network for Joint Multimodal Entity-Relation Extraction." IEEE Transactions on Knowledge and Data Engineering 37, no. 1 (2025): 1-14. (第一作者,`CCF A;  JCR:Q1; IF:10.4`)  [[网页]](https://ieeexplore.ieee.org/abstract/document/10736404)
+-	`Yuan, Li`, Yi Cai, Jingyu Xu, Qing Li, and Tao Wang. "A Fine-Grained Network for Joint Multimodal Entity-Relation Extraction." IEEE Transactions on Knowledge and Data Engineering 37, no. 1 (2025): 1-14. (`CCF A;  JCR:Q1; IF:10.4`)  [[网页]](https://ieeexplore.ieee.org/abstract/document/10736404)
 
 
-- `Yuan, Li`, Jin Wang, Liang-Chih Yu, Yi Cai, and Xuejie Zhang. "Pruning Self-Attention with Local and Syntactic Dependencies for Aspect Sentiment Triplet Extraction." IEEE Transactions on Audio, Speech and Language Processing (2025).(第一作者, `CCF B;  JCR:Q1; IF:5.1`)  [[网页]](https://ieeexplore.ieee.org/document/11027450)
+- `Yuan, Li`, Jin Wang, Liang-Chih Yu, Yi Cai, and Xuejie Zhang. "Pruning Self-Attention with Local and Syntactic Dependencies for Aspect Sentiment Triplet Extraction." IEEE Transactions on Audio, Speech and Language Processing (2025).( `CCF B;  JCR:Q1; IF:5.1`)  [[网页]](https://ieeexplore.ieee.org/document/11027450)
 
 
-- Huang, Shubin*, Yi Cai, `Li Yuan*`, and Jiexin Wang. "A knowledge-enhanced network for joint multimodal entity-relation extraction." Information Processing & Management 62, no. 3 (2025): 104033.(*共同一作,`CCF B;  JCR:Q1; IF:6.9`)  [[网页]](https://www.sciencedirect.com/science/article/pii/S0306457324003923)
+- `Huang, Shubin*`, Yi Cai, `Li Yuan*`, and Jiexin Wang. "A knowledge-enhanced network for joint multimodal entity-relation extraction." Information Processing & Management 62, no. 3 (2025): 104033.(`CCF B;  JCR:Q1; IF:6.9`)  [[网页]](https://www.sciencedirect.com/science/article/pii/S0306457324003923)
 
 ### 2024年
 
-- `Yuan, Li`, Jin Wang, Lung-Hao Lee, and Xuejie Zhang. "Syntax-Enhanced Pretrained Language Models for Aspect-Level Sentiment Classification." IEEE Transactions on Computational Social Systems (2024). (第一作者,`CCF C;  JCR:Q1; IF:4.9`)[[网页]](https://ieeexplore.ieee.org/document/10813579)
+- `Yuan, Li`, Jin Wang, Lung-Hao Lee, and Xuejie Zhang. "Syntax-Enhanced Pretrained Language Models for Aspect-Level Sentiment Classification." IEEE Transactions on Computational Social Systems (2024). (`CCF C;  JCR:Q1; IF:4.9`)[[网页]](https://ieeexplore.ieee.org/document/10813579)
 
 
 ### 2023年
-- `Yuan, Li`, Jin Wang, Liang-Chih Yu, and Xuejie Zhang. "Encoding syntactic information into transformers for aspect-based sentiment triplet extraction." IEEE Transactions on Affective Computing 15, no. 2 (2023): 722-735. (第一作者,`CCF B;  JCR:Q1; IF:9.8`)[[网页]](https://ieeexplore.ieee.org/document/10175600/)
+- `Yuan, Li`, Jin Wang, Liang-Chih Yu, and Xuejie Zhang. "Encoding syntactic information into transformers for aspect-based sentiment triplet extraction." IEEE Transactions on Affective Computing 15, no. 2 (2023): 722-735. (`CCF B;  JCR:Q1; IF:9.8`)[[网页]](https://ieeexplore.ieee.org/document/10175600/)
 
 ### 2022年以前
-- `Yuan, Li`, Jin Wang, Liang-Chih Yu, and Xuejie Zhang. "Syntactic graph attention network for aspect-level sentiment analysis." IEEE Transactions on Artificial Intelligence 5, no. 1 (2022): 140-153. (第一作者,`人工智能学会B 类推荐期刊; EI`)[[网页]](https://ieeexplore.ieee.org/document/9976197/)
+- `Yuan, Li`, Jin Wang, Liang-Chih Yu, and Xuejie Zhang. "Syntactic graph attention network for aspect-level sentiment analysis." IEEE Transactions on Artificial Intelligence 5, no. 1 (2022): 140-153. (`人工智能学会B 类推荐期刊; EI`)[[网页]](https://ieeexplore.ieee.org/document/9976197/)
 
 
-- `Yuan, Li`, Jin Wang, Liang-Chih Yu, and Xuejie Zhang. "Hierarchical template transformer for fine-grained sentiment controllable generation." Information Processing & Management 59, no. 5 (2022): 103048. (第一作者,`CCF B;  JCR:Q1; IF:6.9`)  [[网页]](https://www.sciencedirect.com/science/article/pii/S0306457322001546)
+- `Yuan, Li`, Jin Wang, Liang-Chih Yu, and Xuejie Zhang. "Hierarchical template transformer for fine-grained sentiment controllable generation." Information Processing & Management 59, no. 5 (2022): 103048. (`CCF B;  JCR:Q1; IF:6.9`)  [[网页]](https://www.sciencedirect.com/science/article/pii/S0306457322001546)
 
 
 
@@ -83,43 +83,43 @@ redirect_from:
 
 ### 会议论文
 ---
-### 2026 年
-- `L Yuan`, Qingfei Huang, Bingshan Zhu, Y Cai, Qingbao Huang, Changmeng Zheng, Zikun Deng, Tao Wang. "CHybrid-DMKG: A Hybrid Reasoning Framework over Dynamic Multimodal Knowledge Graphs for Multimodal Multihop QA with Knowledge Editing."Accpted by the AAAI 2026. (第一作者,`CCF A;  人工智能领域顶会`)  [[网页]](https://arxiv.org/abs/2505.06303) (Oral)
+### 2026 年 
+- `L Yuan`, Qingfei Huang, Bingshan Zhu, Y Cai, Qingbao Huang, Changmeng Zheng, Zikun Deng, Tao Wang. "CHybrid-DMKG: A Hybrid Reasoning Framework over Dynamic Multimodal Knowledge Graphs for Multimodal Multihop QA with Knowledge Editing."Accpted by the AAAI 2026. (`CCF A;  人工智能领域顶会`)  [[网页]](https://arxiv.org/abs/2505.06303) (Oral)
 
 ### 2025 年
 
-- Tianchen Yu*, `Li Yuan*`, Hailin Huang, Jiexin Wang, Yi Cai. "Mixture-of-Experts Low-Rank Adaptation for Multilingual Code Summarization." Proceedings of the ASE 2025. (*共同第一作者,`CCF A; 软件工程领域顶会`)  [[网页]](https://conf.researchr.org/details/ase-2025/ase-2025-papers/205/Mixture-of-Experts-Low-Rank-Adaptation-for-Multilingual-Code-Summarization) (Oral)
+- `Tianchen Yu*`, `Li Yuan*`, Hailin Huang, Jiexin Wang, Yi Cai. "Mixture-of-Experts Low-Rank Adaptation for Multilingual Code Summarization." Proceedings of the ASE 2025. (`CCF A; 软件工程领域顶会`)  [[网页]](https://conf.researchr.org/details/ase-2025/ase-2025-papers/205/Mixture-of-Experts-Low-Rank-Adaptation-for-Multilingual-Code-Summarization) (Oral)
 
 
-- `Yuan Li`, Yi Cai, Xudong Shen, Qing Li, Qingbao Huang, Zikun Deng, and Tao Wang. "Collaborative Multi-LoRA Experts with Achievement-based Multi-Tasks Loss for Unified Multimodal Information Extraction."Proceedings of the IJCAI 2025. (第一作者,`CCF A;  人工智能领域顶会`)  [[网页]](https://arxiv.org/abs/2505.06303) (Oral)
+- `Yuan Li`, Yi Cai, Xudong Shen, Qing Li, Qingbao Huang, Zikun Deng, and Tao Wang. "Collaborative Multi-LoRA Experts with Achievement-based Multi-Tasks Loss for Unified Multimodal Information Extraction."Proceedings of the IJCAI 2025. (`CCF A;  人工智能领域顶会`)  [[网页]](https://arxiv.org/abs/2505.06303) (Oral)
 
 
-- Zhou, Bihan*, Haopeng Ren*, `Li Yuan*`, Yi Cai, Liuwen Cao, and Zikun Deng. "RuleEdit: Towards Rule-Level Knowledge Generalization to Mitigate Over-Editing in Large Language Models." In Findings of the ACL 2025, pp. 3159-3175. 2025. (*共同第一作者,`CCF A; 自然语言处理顶会`)  [[网页]](https://aclanthology.org/2025.findings-acl.164/)
+- `Zhou, Bihan*`, `Haopeng Ren*`, `Li Yuan*`, Yi Cai, Liuwen Cao, and Zikun Deng. "RuleEdit: Towards Rule-Level Knowledge Generalization to Mitigate Over-Editing in Large Language Models." In Findings of the ACL 2025, pp. 3159-3175. 2025. (`CCF A; 自然语言处理顶会`)  [[网页]](https://aclanthology.org/2025.findings-acl.164/)
 
 
-- Yu, Tianchen*, `Li Yuan*`, Liannan Lin, and Hongkui He. "A Multiple Representation Transformer with Optimized Abstract Syntax Tree for Efficient Code Clone Detection." In Proceedings of the ICSE 2025, pp. 587-587. (*共同第一作者,`CCF A; 软件工程领域顶会`)  [[网页]](https://www.computer.org/csdl/proceedings-article/icse/2025/056900a587/251mFD6rzPO/) (Oral)
+- Yu, Tianchen*, `Li Yuan*`, Liannan Lin, and Hongkui He. "A Multiple Representation Transformer with Optimized Abstract Syntax Tree for Efficient Code Clone Detection." In Proceedings of the ICSE 2025, pp. 587-587. (`CCF A; 软件工程领域顶会`)  [[网页]](https://www.computer.org/csdl/proceedings-article/icse/2025/056900a587/251mFD6rzPO/) (Oral)
 
 
 
-- Liu, Zhenghao*, `Li Yuan*`, Jiexin Wang, and Yi Cai. "CSE-WSS: Code Structure Enhancement Framework with Weighted Semantic Similarity for Changeset-Based Bug Localization." In Proceedings of the SANER 2025, pp. 252-263. (*共同第一作者,`CCF B; 软件工程领域顶会`)  [[网页]](https://ieeexplore.ieee.org/abstract/document/10992515/) (Oral)
+- `Liu, Zhenghao*`, `Li Yuan*`, Jiexin Wang, and Yi Cai. "CSE-WSS: Code Structure Enhancement Framework with Weighted Semantic Similarity for Changeset-Based Bug Localization." In Proceedings of the SANER 2025, pp. 252-263. (`CCF B; 软件工程领域顶会`)  [[网页]](https://ieeexplore.ieee.org/abstract/document/10992515/) (Oral)
 
 
 ### 2024年
 
-- `Yuan, Li`, Yi Cai, and Junsheng Huang. "Few-shot joint multimodal entity-relation extraction via knowledge-enhanced cross-modal prompt model." In Proceedings of the ACM MM 2024, pp. 8701-8710. (第一作者,`CCF A;  多模态领域顶会`)  [[网页]](https://dl.acm.org/doi/abs/10.1145/3664647.3680717?casa_token=Okofl6ANBQ8AAAAA:--QvmiPsfzDmqdUzHEcEi_f-ptnE2cBDDQx2Bfr3eqcziAMAveRQb-Mart_oWjOdnn5JTXbuolo)
+- `Yuan, Li`, Yi Cai, and Junsheng Huang. "Few-shot joint multimodal entity-relation extraction via knowledge-enhanced cross-modal prompt model." In Proceedings of the ACM MM 2024, pp. 8701-8710. (`CCF A;  多模态领域顶会`)  [[网页]](https://dl.acm.org/doi/abs/10.1145/3664647.3680717?casa_token=Okofl6ANBQ8AAAAA:--QvmiPsfzDmqdUzHEcEi_f-ptnE2cBDDQx2Bfr3eqcziAMAveRQb-Mart_oWjOdnn5JTXbuolo)
 
 
-- Ren, Haopeng, Yushi Zeng, Yi Cai, Zhenqi Ye, `Li Yuan`, and Pinli Zhu. "Grounded multimodal procedural entity recognition for procedural documents: a new dataset and baseline." In Proceedings of COLING 2024, pp. 7971-7981.  (合作作者,`CCF B;  自然语言处理顶会`)  [[网页]](https://aclanthology.org/2024.lrec-main.702/)
+- Ren, Haopeng, Yushi Zeng, Yi Cai, Zhenqi Ye, Li Yuan, and Pinli Zhu. "Grounded multimodal procedural entity recognition for procedural documents: a new dataset and baseline." In Proceedings of COLING 2024, pp. 7971-7981.  (`CCF B;  自然语言处理顶会`)  [[网页]](https://aclanthology.org/2024.lrec-main.702/)
 
 
-- `Yuan, Li`, Yi Cai, Haopeng Ren, and Jiexin Wang. "A Logical Pattern Memory Pre-trained Model for Entailment Tree Generation." In Proceedings of the COLING 2024, pp. 759-772.  (第一作者,`CCF B;  自然语言处理顶会`)  [[网页]](https://aclanthology.org/2024.lrec-main.68/) (Oral)
+- `Yuan, Li`, Yi Cai, Haopeng Ren, and Jiexin Wang. "A Logical Pattern Memory Pre-trained Model for Entailment Tree Generation." In Proceedings of the COLING 2024, pp. 759-772.  (`CCF B;  自然语言处理顶会`)  [[网页]](https://aclanthology.org/2024.lrec-main.68/) (Oral)
 
 
 ### 2023年
-- `Yuan, Li`, Yi Cai, Jin Wang, and Qing Li. "Joint multimodal entity-relation extraction based on edge-enhanced graph alignment network and word-pair relation tagging." In Proceedings of the AAAI 2023, pp. 11051-11059. 2023. (第一作者,`CCF A;  人工智能顶会`)  [[网页]](https://ojs.aaai.org/index.php/AAAI/article/view/26309/) (Oral)
+- `Yuan, Li`, Yi Cai, Jin Wang, and Qing Li. "Joint multimodal entity-relation extraction based on edge-enhanced graph alignment network and word-pair relation tagging." In Proceedings of the AAAI 2023, pp. 11051-11059. 2023. (`CCF A;  人工智能顶会`)  [[网页]](https://ojs.aaai.org/index.php/AAAI/article/view/26309/) (Oral)
 
 ### 2022年以前
-- `Yuan, Li`, Jin Wang, Liang-Chih Yu, and Xuejie Zhang. "Graph attention network with memory fusion for aspect-level sentiment analysis." In Proceedings of the AACL 2020, pp. 27-36. (第一作者,`人工智能学会 C 类推荐会议`)  [[网页]](https://aclanthology.org/2020.aacl-main.4/) (Oral)
+- `Yuan, Li`, Jin Wang, Liang-Chih Yu, and Xuejie Zhang. "Graph attention network with memory fusion for aspect-level sentiment analysis." In Proceedings of the AACL 2020, pp. 27-36. (`人工智能学会 C 类推荐会议`)  [[网页]](https://aclanthology.org/2020.aacl-main.4/) (Oral)
 
 
 
@@ -161,5 +161,6 @@ redirect_from:
 - *2018.05 - 2020.02*, 重庆长江轴承股份有限公司, 重庆
 - *2020.11.25 - 2020.12.02*, 湖北新冶钢有限公司, 湖北黄石
 - *2017.6 - 2021.1*, 制造装备数字化国家工程研究中心, 湖北武汉 -->
+
 
 
