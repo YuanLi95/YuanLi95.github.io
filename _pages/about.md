@@ -88,7 +88,7 @@ redirect_from:
 
 ### 2025 年
 
-- Tianchen Yu*, 'Li Yuan*', Hailin Huang, Jiexin Wang, Yi Cai. "Mixture-of-Experts Low-Rank Adaptation for Multilingual Code Summarization." Proceedings of the ASE 2025. (*共同第一作者,`CCF A; 软件工程领域顶会`)  [[网页]](https://conf.researchr.org/details/ase-2025/ase-2025-papers/205/Mixture-of-Experts-Low-Rank-Adaptation-for-Multilingual-Code-Summarization) (Oral)
+- Tianchen Yu*, `Li Yuan*`, Hailin Huang, Jiexin Wang, Yi Cai. "Mixture-of-Experts Low-Rank Adaptation for Multilingual Code Summarization." Proceedings of the ASE 2025. (*共同第一作者,`CCF A; 软件工程领域顶会`)  [[网页]](https://conf.researchr.org/details/ase-2025/ase-2025-papers/205/Mixture-of-Experts-Low-Rank-Adaptation-for-Multilingual-Code-Summarization) (Oral)
 
 
 - `Yuan Li`, Yi Cai, Xudong Shen, Qing Li, Qingbao Huang, Zikun Deng, and Tao Wang. "Collaborative Multi-LoRA Experts with Achievement-based Multi-Tasks Loss for Unified Multimodal Information Extraction."Proceedings of the IJCAI 2025. (第一作者,`CCF A;  人工智能领域顶会`)  [[网页]](https://arxiv.org/abs/2505.06303) (Oral)
@@ -161,4 +161,5 @@ redirect_from:
 - *2018.05 - 2020.02*, 重庆长江轴承股份有限公司, 重庆
 - *2020.11.25 - 2020.12.02*, 湖北新冶钢有限公司, 湖北黄石
 - *2017.6 - 2021.1*, 制造装备数字化国家工程研究中心, 湖北武汉 -->
+
 
