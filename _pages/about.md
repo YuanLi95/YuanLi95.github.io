@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 
-我将于2026年毕业于华南理工大学软件学院，师从蔡毅教授，获得博士学位。2025年1月至2026年1月，作为国家公派联合培养博士生，在香港理工大学访问交流，合作导师为李青教授。我的研究方向包括多模态学习、知识图谱与情感分析。以第一作者身份在 TKDE、AAAI、IJCAI 等国际顶级期刊与会议发表论文十余篇，并担任 ACL、AAAI、TKDE、TASLP 等国际会议与期刊的审稿人。
+我将于2026年毕业于华南理工大学软件学院，师从蔡毅教授(https://www2.scut.edu.cn/sse/2018/0615/c16788a270751/page.htm)，获得博士学位。2025年1月至2026年1月，作为国家公派联合培养博士生，在香港理工大学访问交流，合作导师为李青教授(https://www4.comp.polyu.edu.hk/~csqli/)。我的研究方向包括多模态学习、知识图谱与情感分析。以第一作者身份在 TKDE、AAAI、IJCAI 等国际顶级期刊与会议发表论文十余篇，并担任 ACL、AAAI、TKDE、TASLP 等国际会议与期刊的审稿人。
 
  <a href='https://scholar.google.com/citations?user=5VtOcSkAAAAJ&hl'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=引用"></a>。 
 
@@ -161,6 +161,7 @@ redirect_from:
 - *2018.05 - 2020.02*, 重庆长江轴承股份有限公司, 重庆
 - *2020.11.25 - 2020.12.02*, 湖北新冶钢有限公司, 湖北黄石
 - *2017.6 - 2021.1*, 制造装备数字化国家工程研究中心, 湖北武汉 -->
+
 
 
 
