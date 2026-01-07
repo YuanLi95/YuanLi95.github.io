@@ -51,6 +51,9 @@ redirect_from:
 
 </div>
 </div> -->
+### 2026年
+- `Yuan, Li`, Yi Cai,  Bingshan Zhu, Zhenghao Liu, Zikun Deng, Qing Li, Tao Wang. "Visual Knowledge-enhanced LLaVA for Fine-Grained Multimodal Named Entity Recognition and Grounding." Accepted by the IEEE Transactions on Audio, Speech and Language Processing (2026). ( `CCF B;  JCR:Q1; IF:5.1`)
+- 
 ### 2025年
 
 -	`Yuan, Li`, Yi Cai, Jingyu Xu, Qing Li, and Tao Wang. "A Fine-Grained Network for Joint Multimodal Entity-Relation Extraction." IEEE Transactions on Knowledge and Data Engineering 37, no. 1 (2025): 1-14. (`CCF A;  JCR:Q1; IF:10.4`)  [[网页]](https://ieeexplore.ieee.org/abstract/document/10736404)
@@ -161,6 +164,7 @@ redirect_from:
 - *2018.05 - 2020.02*, 重庆长江轴承股份有限公司, 重庆
 - *2020.11.25 - 2020.12.02*, 湖北新冶钢有限公司, 湖北黄石
 - *2017.6 - 2021.1*, 制造装备数字化国家工程研究中心, 湖北武汉 -->
+
 
 
 
