@@ -102,7 +102,7 @@ redirect_from:
 - `Zhou, Bihan*`, `Haopeng Ren*`, `Li Yuan*`, Yi Cai, Liuwen Cao, and Zikun Deng. "RuleEdit: Towards Rule-Level Knowledge Generalization to Mitigate Over-Editing in Large Language Models." In Findings of the ACL 2025, pp. 3159-3175. 2025. (`CCF A; 自然语言处理顶会`)  [[网页]](https://aclanthology.org/2025.findings-acl.164/)
 
 
-- Yu, Tianchen*, `Li Yuan*`, Liannan Lin, and Hongkui He. "A Multiple Representation Transformer with Optimized Abstract Syntax Tree for Efficient Code Clone Detection." In Proceedings of the ICSE 2025, pp. 587-587. (`CCF A; 软件工程领域顶会`)  [[网页]](https://www.computer.org/csdl/proceedings-article/icse/2025/056900a587/251mFD6rzPO/) (Oral)
+- `Yu, Tianchen*`, `Li Yuan*`, Liannan Lin, and Hongkui He. "A Multiple Representation Transformer with Optimized Abstract Syntax Tree for Efficient Code Clone Detection." In Proceedings of the ICSE 2025, pp. 587-587. (`CCF A; 软件工程领域顶会`)  [[网页]](https://www.computer.org/csdl/proceedings-article/icse/2025/056900a587/251mFD6rzPO/) (Oral)
 
 
 
