@@ -41,7 +41,7 @@ redirect_from:
  
 <span class='anchor' id='-lwzl'></span>
 
-# 📝 论文（*表示共同一作）
+# 📝 论文（*表示同等共享）
 
 ## 期刊论文
 ---
