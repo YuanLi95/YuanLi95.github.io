@@ -18,7 +18,18 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 
-我将于2026年毕业于华南理工大学软件学院，师从[[蔡毅教授 (院长)]](https://www2.scut.edu.cn/sse/2018/0615/c16788a270751/page.htm)，获得博士学位。2025年1月至2026年1月，作为广东省公派联合培养博士生，在香港理工大学访问交流，合作导师为[[李青教授(IEEE Fellow)]](https://www4.comp.polyu.edu.hk/~csqli/)。我的研究方向包括多模态学习、知识图谱与情感分析。以第一作者身份在 TKDE、AAAI、IJCAI 等国际顶级期刊与会议发表论文十余篇，并担任 ACL、AAAI、TKDE、TASLP 等国际会议与期刊的审稿人。更多论文，请访问 <a href="https://scholar.google.com/citations?user=5VtOcSkAAAAJ&hl" target="_blank">谷歌学术</a>。
+我已于 2026 年 07 月以特聘研究员的身份（励儒英才）加入华南师范大学人智能学院，已于2026年06 月毕业于华南理工大学软件学院，师从[[蔡毅教授 (院长)]](https://www2.scut.edu.cn/sse/2018/0615/c16788a270751/page.htm)，获得博士学位。2025年1月至2026年1月，作为广东省公派联合培养博士生，在香港理工大学访问交流，合作导师为[[李青教授(IEEE Fellow)]](https://www4.comp.polyu.edu.hk/~csqli/)。我的研究方向包括多模态学习、知识图谱与情感分析。以第一作者身份在 TKDE、AAAI、IJCAI 等国际顶级期刊与会议发表论文十余篇，并担任 ACL、AAAI、TKDE、TASLP 等国际会议与期刊的审稿人。更多论文，请访问 <a href="https://scholar.google.com/citations?user=5VtOcSkAAAAJ&hl" target="_blank">谷歌学术</a>。
+
+我于 **2026年7月** 加入 **华南师范大学人工智能学院**，担任**特聘研究员（励儒英才）**。
+
+我于 **2026年6月** 毕业于 **华南理工大学软件学院**，师从 [**蔡毅教授（学院院长）**](https://www2.scut.edu.cn/sse/2018/0615/c16788a270751/page.htm)，获得软件工程博士学位。  
+2025年1月至2026年1月，作为**广东省公派联合培养博士生**，赴 **香港理工大学** 开展访问交流，合作导师为 [**李青教授（IEEE Fellow）**](https://www4.comp.polyu.edu.hk/~csqli/)。
+
+我的研究方向包括**多模态学习、知识图谱与情感分析**，主要关注多模态语义理解、知识增强学习以及智能推理等人工智能领域关键问题。
+
+近年来，以第一作者身份在 **IEEE TKDE、AAAI、IJCAI** 等国际高水平期刊与会议发表论文十余篇，并担任 **ACL、AAAI、IEEE TKDE、IEEE TASLP** 等国际会议与期刊审稿人。
+
+更多论文成果请访问我的 [**Google Scholar**](https://scholar.google.com/citations?user=5VtOcSkAAAAJ&hl)。
 
 
 我的研究领域包括：
