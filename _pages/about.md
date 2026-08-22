@@ -46,7 +46,7 @@ redirect_from:
  
 <span class='anchor' id='-lwzl'></span>
 
-# 📝 论文（*表示同等贡献）
+# 📝 论文（*表示同等贡献，#表示通讯）
 
 ## 期刊论文
 ---
@@ -92,6 +92,7 @@ redirect_from:
 ### 会议论文
 ---
 ### 2026 年 
+- K Huang, Y Cai, X Wu, Z Deng, `L Yuan#`. "SMADE-IE: Sparse Multi-Agent Framework with Evidence-Driven Debate for Zero-Shot Information Extraction." Accepted by the EMNLP 2026 Main. (`CCF B; CAAI A；自然语言处理领域顶会`)
 - `Xudong Shen*`, `li yuan*`, Ye Chen, Xin Wu, Yi Cai, Zhiyong Wu. "Truth or Sophistry? LoFa: A Benchmark for LLM Robustness Against Logical Fallacies."Accepted by the ACL 2026 Main. (`CCF A;  人工智能领域顶会`)
   
 - `L Yuan`, Qingfei Huang, Bingshan Zhu, Y Cai, Qingbao Huang, Changmeng Zheng, Zikun Deng, Tao Wang. "CHybrid-DMKG: A Hybrid Reasoning Framework over Dynamic Multimodal Knowledge Graphs for Multimodal Multihop QA with Knowledge Editing."Accpted by the AAAI 2026. (`CCF A;  人工智能领域顶会`)  [[网页]](https://arxiv.org/abs/2505.06303)
